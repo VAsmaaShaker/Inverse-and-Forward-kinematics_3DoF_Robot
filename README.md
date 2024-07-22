@@ -25,7 +25,7 @@ To calculate the forward kinematics,
 ### Inverse kinematics
 Inverse kinematics is used to find the angles for link 1, link 2, and link 3.
 
-![image](https://github.com/user-attachments/assets/6ee13277-341b-4412-9730-b2052359ebb8)
+![image](https://github.com/user-attachments/assets/cfd4f6ce-c12a-4460-9275-aa2b7a8071a1)
 
 To calculate the Inverse kinematics,
 1. calculated the positions of link 1 and link 2 using the 2DoF  in the X and Y axes.
